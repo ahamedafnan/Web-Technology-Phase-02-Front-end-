@@ -1,18 +1,18 @@
 # UniFind
 
-UniFind is a web development project designed to help users find and explore boarding places or hostels easily through a clean and user-friendly web interface. This project was developed as a group project using frontend web technologies.
+UniFind is a web application that helps users post and find lost or found items through a simple and user-friendly interface.
 
 ## Group Name
 Finders Gate
 
 ## Project Description
-This website allows users to browse boarding place details, view profiles, register, contact the service, and access reports through different web pages. The interface is designed to be attractive, simple, and easy to navigate.
+This website allows users to post and browse lost or found items, view item details, register and log in, and contact the person related to the item. Users can upload images and provide important information such as location, date, and contact details. The interface is designed to be attractive, simple, and easy to navigate, making it easier for users to recover lost belongings.
 
 ## Features
 - Responsive homepage design
 - User registration page
 - User profile page
-- Lost or found Items browing section
+- Lost or found items browing section
 - Details page for more information
 - Contact page
 - Report page
@@ -58,13 +58,15 @@ UniFind/
 
 ## Pages Included
 - `index.html` – Main landing page
-- `home.html` – Home page
-- `browse.html` – Browse boarding places
-- `details.html` – Detailed information page
-- `register.html` – Registration page
+- `home.html` – Dashboard/Home page
+- `browse.html` – Browse lost and found items
+- `details.html` – View detailed information about an item
+- `register.html` – User registration page
+- `login.html` – User login page
 - `profile.html` – User profile page
+- `post.html` – Post a lost or found item
 - `contact.html` – Contact page
-- `report.html` – Reporting page
+- `report.html` – Report issues or inappropriate items
 
 ## Future Improvements
 - Add backend connectivity
